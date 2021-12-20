@@ -1,6 +1,8 @@
 *
 !*/
 !/.gitignore
+!/README.md
+!/readme/*
 !/Assets/Scripts/Attributes/*.cs
 !/Assets/Scripts/Core/AnimationControl/**/*.cs
 !/Assets/Scripts/Core/Camera/*.cs
