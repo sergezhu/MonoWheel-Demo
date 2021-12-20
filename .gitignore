@@ -1,5 +1,6 @@
-/**/*
-!.gitignore
+*
+!*/
+!/.gitignore
 !/Assets/Scripts/Attributes/*.cs
 !/Assets/Scripts/Core/AnimationControl/**/*.cs
 !/Assets/Scripts/Core/Camera/*.cs
@@ -18,3 +19,5 @@
 !/Assets/Scripts/Core/Player/PlayerParameters/PlayerParameters.cs
 !/Assets/Scripts/Core/EntryPoint.cs
 !/Assets/Scripts/Core/UniquedScriptableObject.cs
+
+.idea
